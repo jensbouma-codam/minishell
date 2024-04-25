@@ -1,0 +1,6 @@
+[submodule "lib/libft"]
+	path = lib/libft
+	url = https://github.com/jensbouma-codam/LibFT.git
+[submodule "lib/readline"]
+	path = lib/readline
+	url = git://git.savannah.gnu.org/readline.git
